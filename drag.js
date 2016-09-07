@@ -18,3 +18,7 @@ function drag(id){
 	}
 	return false;
 }
+$(function(){
+   console.log(123);
+
+});
